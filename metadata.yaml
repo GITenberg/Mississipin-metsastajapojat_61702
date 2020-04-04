@@ -1,5 +1,5 @@
 _repo: Mississipin-metsastajapojat_61702
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The boy hunters. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '46070'
     url: http://www.gutenberg.org/2009/agents/46070
     wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reid, Mayne
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6260
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Mayne_Reid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61702#Mississipin-metsastajapojat
 gutenberg_issued: '2020-03-29'
 gutenberg_type: Text
 identifiers:
