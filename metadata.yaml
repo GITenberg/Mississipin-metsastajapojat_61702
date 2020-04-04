@@ -1,0 +1,42 @@
+_repo: Mississipin-metsastajapojat_61702
+_version: 0.0.1
+alternative_title: The boy hunters. Finnish
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+    wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Mayne_Reid
+description: ''
+gutenberg_issued: '2020-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61702'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- GITenberg
+title: Mississipin metsästäjäpojat
+url: http://www.gutenberg.org/ebooks/61702
